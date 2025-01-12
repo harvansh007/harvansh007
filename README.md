@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Harvansh Singh</h1>
-<h3 align="center">A passionate to Develop Intune and Defender Tools developer from India</h3>
+<h3 align="center">A passionate to Develop Intune and Defender Tools, developer from India</h3>
 
 - 🔭 I’m currently working on **Intune Device and User Management Tool**
 
