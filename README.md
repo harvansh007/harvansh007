@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Intune Device and User Management Tool**
 
-- 🌱 I’m currently learning **Artificial Intelligent**
+- 🌱 I’m currently learning **Artificial intelligence (AI)**
 
 - 👨‍💻 All of my projects are available at [https://github.com/harvansh007](https://github.com/harvansh007)
 
